@@ -110,6 +110,7 @@ function funnyHair(){
 		//hairstyles[i].move()
 		hairstyles[i].show()
 	}
+	//noch nicht ins array gepusht...
 	image(hairs[0], 100, 200, 200, 200)
 	image(hairs[1], 300, 100, 200, 200)
 	image(hairs[2], 500, 300, 200, 200)
